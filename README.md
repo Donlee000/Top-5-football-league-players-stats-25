@@ -41,7 +41,7 @@ The exploratory data analysis (EDA) phase involved investigating the cleaned dat
 
 The insights gained from EDA informed the design of targeted visualizations and helped highlight the most impactful performance factors.
 
-<img width="1024" height="1536" alt="footy_statistic_top-5_league" src="https://github.com/user-attachments/assets/fbdec66c-6f35-4c95-9a26-9ec3a8e00b99" />
+<img width="1024" height="1536" alt="footy_statistic_top-5_league" src="https://github.com/user-attachments/assets/daf70aae-fe52-4780-afe9-79bbd3b19c26" />
 
 
 ### Data Analysis
