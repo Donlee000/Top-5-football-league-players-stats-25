@@ -4,6 +4,9 @@
 
 A project showcasing statistical insights into top football league players from five major leagues, with visualizations highlighting progressive carries, goal contributions, and competition performance."
 
+<img width="1024" height="1536" alt="Footy_leon_top-5_players_states_matrics" src="https://github.com/user-attachments/assets/460af480-cb33-4443-b44d-a5bf564d117e" />
+
+
 ### Data Source
 Data Source: The raw data includes player metrics such as progressive carries, expected goals (xG), assists, and goal contributions, extracted and analyzed using SQL queries. The dataset is supplemented by Excel files containing aggregated league and player stats for enhanced analysis and visualization.
 
