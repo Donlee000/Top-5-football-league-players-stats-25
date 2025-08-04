@@ -214,7 +214,32 @@ FROM dbo.players_states
 WHERE TRY_CAST(PrgR AS DECIMAL(10,2)) IS NOT NULL
 ORDER BY progressive_runs DESC;
 ```
+### Result and Findings 
 
+The analysis of top football league players across the five major European competitions revealed several key insights:
 
+1. Jeremy Doku leads in progressive carries, demonstrating exceptional ability in advancing the ball and creating offensive opportunities.Vinicius Junior, Mohamed Salah, Noni Madueke, Kylian Mbappe, and Kaoru Mitoma also rank highly, showcasing their significant contributions to their teams’ offensive play.
+2. The top clubs by total goals scored align with traditional leading the way is Fc Barcelona, Bayern Munich, PSG, Real Madrid, Manchester City and Liverpool, reflecting their consistent offensive dominance.
+3. The Bundesliga leads in xG overperformance, suggesting teams and players in this league often outperform expected goal metrics, indicating high efficiency in finishing chances.
+4. Analysis of goals per 90 minutes by competition shows La Liga as the most prolific league in terms of goal scoring per match
+5. Age bracket analysis highlights that players aged 23–26 tend to have the highest average assists per 90, indicating a peak period for playmaking ability.
+6. There is a strong positive relationship between progressive carries and combined goals plus assists, emphasizing the importance of ball progression in overall offensive productivity.
 
+### Recommendations
 
+I recommend the following action that could be taken:
+
+- Teams should emphasize developing players' progressive carrying skills, as this metric correlates strongly with goal involvement and overall attacking effectiveness.
+- Scouting efforts might prioritize players in the 23–26 age bracket, who statistically offer peak playmaking contributions.
+- Leagues like Bundesliga could be studied further to understand the factors driving xG overperformance and applied in training to improve finishing efficiency.
+- Clubs should consider integrating advanced metrics like progressive carries and xG into regular performance evaluations to optimize player development and tactical strategies.
+- Further research could explore defensive metrics and transition play to provide a more holistic understanding of player impact beyond offensive statistics.
+
+### Limitations
+
+- Contextual Factors Not Captured: The dataset focuses primarily on offensive metrics and does not fully account for contextual factors such as team tactics, player roles, or match situations, which may influence player performance and stats.
+
+### References
+
+1. fbref. Football States
+2. [Big 5 European Leagues Stats](https://fbref.com/en/comps/Big5/Big-5-European-Leagues-Stats)
